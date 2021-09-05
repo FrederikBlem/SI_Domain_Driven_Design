@@ -74,6 +74,7 @@ With the focus being on the domain (the actual business logic and subject area) 
 [AirBrake - Blog Source on DDD](https://airbrake.io/blog/software-design/domain-driven-design)
 
 #### ● how does DDD relate to microservices architecture?
+Personal note: it seems DDD can be applied to microservices architecture in order to make it easier to understand complex systems/architecture, because DDD forces you to ease communication, improve flexibility, etc. which in my opinion also seems to be the goal of microservices.
 
 This is an individual task.
 
